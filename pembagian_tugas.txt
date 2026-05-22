@@ -5,6 +5,8 @@ Membuat halaman beranda
 
 Kolaborator 1:
 Membuat halaman nilai
-
+Rancangan Halaman Nilai
+Halaman nilai dibuat dengan desain sederhana. Pada bagian atas terdapat judul “Halaman Nilai”. Di bawah judul terdapat beberapa card atau kotak yang berisi nama owner, kolaborator 1, dan kolaborator 2. 
+Halaman ini juga memiliki tombol “Kembali ke Beranda” yang berfungsi untuk kembali ke halaman utama.
 Kolaborator 2:
 Membantu desain dan pengujian

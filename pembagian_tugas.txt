@@ -1,1 +1,10 @@
+Pembagian Tugas
 
+Owner:
+Membuat halaman beranda
+
+Kolaborator 1:
+Membuat halaman nilai
+
+Kolaborator 2:
+Membantu desain dan pengujian
